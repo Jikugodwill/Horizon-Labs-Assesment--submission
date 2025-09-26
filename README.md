@@ -7,10 +7,10 @@ Welcome to our front-end developer assessment! This test is designed to evaluate
 
 ### Question 1: Project Setup & Understanding (5 minutes)
 **Q: What technologies are used in this project?**
-**A: Expected Response:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui components
+**A:** React, TypeScript, Vite, Tailwind CSS
 
 **Q: How do you start the development server?**
-**A: Expected Response:** `npm run dev` or `npm start`
+**A:** `pnpm run dev`
 
 ### Question 2: Component Creation (15 minutes)
 **Q: Create a `TaskCard` component that displays:**
